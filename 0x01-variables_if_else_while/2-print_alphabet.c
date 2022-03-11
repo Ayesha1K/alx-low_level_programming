@@ -6,7 +6,7 @@
  * Always return(0)
  */
 
-int void main
+void main(void)
 {
 	char ch = 'a';
 
