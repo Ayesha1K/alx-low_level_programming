@@ -3,12 +3,12 @@
 /**
  * main - alphabet in lowercase, followed by a new line.
  *
- * Always return(0)
+ * Return: Always 0 (Success)
  */
 
 int main(void)
 {
-	char ch = 'a';
+	char ch;
 
 	for (ch = 'a'; ch <= 'z'; ch++)
 	{
