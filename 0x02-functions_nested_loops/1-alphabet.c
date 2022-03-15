@@ -1,10 +1,9 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
  * print_alphabet - prints all aphabets in lowercase
  *
- * Description: They are sorted by default
- * return (0)
+ * Return: Always 0 (Success)
  */
 
 void print_alphabet(void)
